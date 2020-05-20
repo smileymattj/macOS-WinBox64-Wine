@@ -1,0 +1,2 @@
+#!/bin/bash
+/Applications/Wine\ Stable.app/Contents/Resources/wine/bin/wine64 "$(dirname "$0")/../Resources/winbox64.exe"
