@@ -15,9 +15,9 @@
 	<key>CFBundleName</key>
 	<string>WinBox</string>
 	<key>CFBundleVersion</key>
-	<string>3.24.0</string>
+	<string>3.37.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.24.0</string>
+	<string>3.37.0</string>
 	<key>CFBundleIconFile</key>
 	<string>Icon.icns</string>
 	<key>LSApplicationCategoryType</key>
