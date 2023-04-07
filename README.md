@@ -60,7 +60,7 @@ unzip resourcesextract.zip<br>
 
 /usr/local/wine/bin/wine32on64 ResourcesExtract.exe<br>
 
-open WinBox_200.ico<br>
+open winbox64_100.ico<br>
 
 mkdir Icon.iconset<br>
 mv icon_128x128.png Icon.iconset/<br>
