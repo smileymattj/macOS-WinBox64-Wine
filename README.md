@@ -67,7 +67,7 @@ mv icon_128x128.png Icon.iconset/<br>
 
 iconutil -c icns Icon.iconset<br>
 
-mv Icon.icns Dude.app/Contents/Resources/<br>
+mv Icon.icns WinBox.app/Contents/Resources/<br>
 
 
 ## Install WinBox Application ## 
