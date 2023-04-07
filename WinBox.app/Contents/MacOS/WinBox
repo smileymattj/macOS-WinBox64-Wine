@@ -1,2 +1,2 @@
 #!/bin/bash
-/Applications/Wine\ Stable.app/Contents/Resources/wine/bin/wine64 "$(dirname "$0")/../Resources/winbox64.exe"
+/usr/local/wine/bin/wine32on64 ~/.wine/drive_c/Program\ Files\ \(x86\)/WinBox/winbox64.exe
